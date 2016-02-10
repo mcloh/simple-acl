@@ -1,0 +1,13 @@
+{
+  "name": "simple-acl",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "mongolab"
+  ],
+  "buildpacks": [
+
+  ]
+}
